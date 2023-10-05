@@ -1,0 +1,16 @@
+{
+    "1":{
+        "title": "Spotifra",
+        "logo": "spotifra.png",
+        "desc": "In development, Spotifra is a platform designed for music producers and singers to publish their songs and beats.",
+        "location": "https://spotifra.it/",
+        "customStyle": ""
+    },
+    "2":{
+        "title": "Astralic",
+        "logo": "astralic.png",
+        "desc": "An innovative Minecraft server engages users in developing new and exciting gaming experiences together.",
+        "location": "https://astralic.it/",
+        "customStyle": "border-radius: 50%;"
+    }
+}

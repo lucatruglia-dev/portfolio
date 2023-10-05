@@ -1,0 +1,31 @@
+{
+    "1":{
+        "title": "HTML",
+        "icon": "<i class='fa-brands fa-html5'></i>",
+        "perc": "95%"
+    },
+    "2":{
+        "title": "CSS",
+        "icon": "<i class='fa-brands fa-css3-alt'></i>",
+        "perc": "85%"
+    },
+
+    "3":{
+        "title": "JS",
+        "icon": "<i class='fa-brands fa-square-js'></i>",
+        "perc": "70%"
+    },
+
+    "4":{
+        "title": "py",
+        "icon": "<i class='fa-brands fa-python'></i>",
+        "perc": "60%"
+    },
+
+    "5":{
+        "title": "PHP",
+        "icon": "<i class='fa-brands fa-php'></i>",
+        "perc": "55%"
+    }
+
+}
